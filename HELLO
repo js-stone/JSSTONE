@@ -1,0 +1,72 @@
+@@ -0,0- +1,71 @@
++ <！DOCTYPE HTML>
++ < HTML >
++ < 頭 >
++ < 元 的charset = “ UTF-8 “ >
++ < 元 HTTP的當量 = “ X-UA兼容“ 的內容 = “鉻= 1 “ >
++ < 標題 > Jsstone由jsstone2012 </ 標題 >
++
++ < 鏈接 REL = “樣式表“ 的HREF = “樣式表/ styles.css的“ >
++ < 鏈接 REL = “樣式表“ 的HREF = “樣式表/ pygment_trac.css “ >
++ < 元 名稱 = “視口“ 內容 = “ WIDTH =設備的寬度，初始規模= 1，用戶可擴展=無“ >
++     <！ - [如果LT IE 9]>
++     <SCRIPT SRC =“// html5shiv.googlecode.com/svn/trunk/html5.js”> </ SCRIPT>
++     <！[ENDIF] - >
++ </ 頭 >
++ < 身體 >
++ < DIV  級 = “包裝“ >
++ < 標題 >
++ < H1 > Jsstone </ H1 >
++ < P > </ P >
++
++ < P  類 = “查看“ > < 一 HREF = “ https://github.com/jsstone2012/jsstone “ >查看項目在GitHub上< 小 > jsstone2012 / jsstone </ 小 > </ 一 > </ P >
++
++
++ < UL >
++ < 禮 > < 一個 HREF = “ https://github.com/jsstone2012/jsstone/zipball/master “ >下載< 強 > ZIP文件</ 強 > </ 一 > </ 李 >
++ < 禮 > < 一個 HREF = “ https://github.com/jsstone2012/jsstone/tarball/master “ >下載< 強 > TAR球</ 強 > </ 一 > </ 李 >
++ < 禮 > < 一個 HREF = “ https://github.com/jsstone2012/jsstone “ >查看< 強 > GitHub上</ 強 > </ 一 > </ 李 >
++ </ UL >
++ </ 頭 >
++ < 節 >
++ < H3 >
++< a  id = " welcome-to-github-pages "  class = " anchor "  href = " #welcome-to-github-pages "  aria-hidden = " true " >< span  class = " octicon octicon鏈接“ > </ 跨度 > </ 一 >歡迎GitHub的頁面。</ H3 >
++
++ < P >此自動頁面生成器，共創美好的頁面為您的所有項目的最簡單的方法。創作您的網頁內容在這裡使用GitHub的香料降價，選擇由設計者製作的模板，並發布。後生成的頁面，你可以檢查出新的分支：</ P >
++
++ < 前 > < 代碼 > $ CD your_repo_root / repo_name
++ $混帳獲取原產地
++ $ git的結帳GH-頁
++ </ 代碼 > </ 預 >
++
++ < P >如果你使用的是GitHub上的Mac，只需同步你的資料庫，你會看到新的分支。</ P >
++
++ < H3 >
++< a  id = " designer-templates "  class = " anchor "  href = " #designer-templates "  aria-hidden = " true " >< span  class = " octicon octicon鏈接“ > </ 跨度 > </ 一 >設計模板</ H3 >
++
++ < P >我們已經製作了一些帥氣的模板供你使用。繼續前進，繼續佈局，瀏覽它們。你可以很容易地回到之前發布編輯頁面。發布你的頁面後，您可以重新訪問頁面生成，並切換到另一個主題。如果仍降價格式的網頁內容都將被保留。</ P >
++
++ < H3 >
++< a  id = " rather-drive-stick "  class = " anchor "  href = " #rather-drive-stick "  aria-hidden = " true " >< span  class = " octicon octicon鏈接“ > </ 跨度 > </ 一 >而驅動棒？</ H3 >
++
++ < P >如果您不想使用自動生成，推動一個名為<分支代碼 > GH-頁</ 代碼 >到你的資料庫手動創建一個頁面。除了 ​​支持常規的HTML內容，GitHub的頁面支持化身，是由我們自己的湯姆·普雷斯頓-沃納簡單，博客意識到靜態網站發生器。傑基爾可以很容易地創建站點範圍頁眉和頁腳，而無需他們在每一個頁面複製。它還提供智能支持博客和其他高級模板功能。</ P >
++
++ < H3 >
++< a  id = " authors-and-contributors "  class = " anchor "  href = " #authors-and-contributors "  aria-hidden = " true " >< span  class = " octicon octicon鏈接“ > </ 跨度 > </ 一 >作者和貢獻者</ H3 >
++
++ < P >您可以< 一 HREF = “ https://github.com/blog/821 “ 級 = “用戶自提“ > @mention </ 一 >一個GitHub的用戶名來生成一個鏈接到他們的個人資料。由此產生的< 代碼 > ＆LT;一＆GT; </ 代碼 >元素將鏈接到貢獻者的GitHub的個人資料。例如：2007年，克里斯Wanstrath為此設計（< 一 HREF = “ https://github.com/defunkt “ 級 = “用戶自提“ > @defunkt </ 一 >），PJ Hyett如此（< 一 HREF = “ HTTPS： //github.com/pjhyett “ 級 = “用戶自提“ > @pjhyett </ 一 >），和湯姆·普雷斯頓-維爾納（< 一 HREF = “ https://github.com/mojombo “ 級 = “用戶自何況“ > @mojombo </ 一 >）成立GitHub上。</ P >
++
++ < H3 >
++< a  id = " support-or-contact "  class = " anchor "  href = " #support-or-contact "  aria-hidden = " true " >< span  class = " octicon octicon鏈接“ > </ 跨度 > </ 一 >支持或聯繫</ H3 >
++
++ < P >有了與網頁的麻煩？檢查出的文檔，< 一個 HREF = “ https://help.github.com/pages “ > https://help.github.com/pages </ 一 >或聯繫< 一個 HREF = “的mailto：支持@ github上.COM “ > support@github.com </ 一 >，我們會幫你整理出來。</ P >
++ </ 節 >
++ < 頁腳 >
++ < P >該項目是維護< 一 HREF = “ https://github.com/jsstone2012 “ > jsstone2012 </ 一 > </ P >
++ < P > < 小 >託管在GitHub上的頁面＆mdash;主題由< 一個 HREF = “ https://github.com/orderedlist “ > orderedlist </ 一 > </ 小 > </ P >
++ </ 頁腳 >
++ </ DIV >
++     < 腳本 SRC = “ JavaScript的/ scale.fix.js “ > </ 腳本 >
++    
++ </ 身體 >
++ </ HTML >
